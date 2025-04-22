@@ -39,7 +39,7 @@ def analyze_image(img):
     # API request to Hugging Face
     api_url = "https://api-inference.huggingface.co/models/sagarvk24/skin-disorders-classifier"
     headers = {
-        "Authorization": "Bearer #",  # Replace with your token
+        "Authorization": "Bearer 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",  # Replace with your token
         "Content-Type": "image/jpeg"
     }
 
